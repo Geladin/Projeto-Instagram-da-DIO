@@ -123,11 +123,11 @@ body {
 }
 
 .app:nth-child(1) {
-    background-image: url('apple-button.png');
+    background-image: url('./img/apple-button.png');
 }
 
 .app:nth-child(2) {
-    background-image: url('googleplay-button.png');
+    background-image: url('./img/googleplay-button.png');
 }
 
 .link-extra {
